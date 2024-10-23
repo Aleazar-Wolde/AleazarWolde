@@ -21,6 +21,6 @@
   A QuickBooks-inspired financial platform for budgeting and expense tracking, built with React and Spring Boot.
 
 ## 📈 GitHub Stats:
-![Aleazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleazarWolde&show_icons=true&theme=radical)
+![Aleazar's GitHub stats](https://github.com/alicrear)
 
 ## 📫 Get in
