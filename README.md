@@ -1,6 +1,6 @@
 # Hi there, I'm Aleazar Wolde! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/walazer2112?label=Follow&style=social)](https://github.com/walazer2112)
+[![GitHub followers](https://img.shields.io/github/followers/alicrear?label=Follow&style=social)](https://github.com/walazer2112)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aleazar-wolde-206560263/)
 [![Email](https://img.shields.io/badge/Email-walazer2112%40gmail.com-red)](mailto:walazer2112@gmail.com)
 
