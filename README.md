@@ -73,7 +73,7 @@ I'm an enthusiastic **Computer Science student** at the **University of Maryland
 
 - **Email**: [walazer2112@gmail.com](mailto:walazer2112@gmail.com)
 - **LinkedIn**: [Aleazar Wolde](https://www.linkedin.com/in/aleazar-wolde-206560263/)
-- **GitHub**: [walazer2112](https://github.com/walazer2112)
+- **GitHub**: [walazer2112](https://github.com/alicrear)
 
 ---
 
