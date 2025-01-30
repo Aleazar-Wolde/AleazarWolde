@@ -1,6 +1,6 @@
 # Hi there, I'm Aleazar Wolde! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/alicrear?label=Follow&style=social)](https://github.com/walazer2112)
+[![GitHub followers](https://img.shields.io/github/followers/Aleazar-Wolde?label=Follow&style=social)](https://github.com/walazer2112)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aleazar-wolde-206560263/)
 [![Email](https://img.shields.io/badge/Email-walazer2112%40gmail.com-red)](mailto:walazer2112@gmail.com)
 
@@ -66,14 +66,14 @@ I'm an enthusiastic **Computer Science student** at the **University of Maryland
 ---
 
 ## GitHub Stats
-![Aleazar's GitHub stats](https://github.com/alicrear)
+![Aleazar's GitHub stats](https://github.com/Aleazar-Wolde)
 ---
 
 ## Get in Touch
 
 - **Email**: [walazer2112@gmail.com](mailto:walazer2112@gmail.com)
 - **LinkedIn**: [Aleazar Wolde](https://www.linkedin.com/in/aleazar-wolde-206560263/)
-- **GitHub**: [walazer2112](https://github.com/alicrear)
+- **GitHub**: [Aleazar-Wolde](https://github.com/Aleazar-Wolde)
 
 ---
 
